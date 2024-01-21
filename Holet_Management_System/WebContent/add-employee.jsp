@@ -82,7 +82,7 @@
 				</div>
 				
 				<div class="form-group">
-					<label for="inputNIC">NIC: </label>
+					<label for="inputNIC">NIC 1: </label>
 					<input type="text" id="NIC" name="nic" placeholder="Enter  NIC Number" class="form-control"  pattern="^[0-9+]{9}[vV|xX]$">
 				</div>
 				<div class="form-group">
@@ -141,7 +141,7 @@
 	</div>
 	
 	<footer class="page-footer font-small navbar-dark bg-dark" style="color:#ffffff; left: 0; bottom: 0; width: 100%; margin-top: 20px;">
-		<div class="footer-copyright text-center py-3">© 2021 Copyright</div>
+		<div class="footer-copyright text-center py-3">ï¿½ 2021 Copyright</div>
 	</footer>
 	
 </body>
